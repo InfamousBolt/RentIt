@@ -1,16 +1,12 @@
-# rent_app
+# RentIt
 
-A new Flutter project.
+> A simple one of a kind app that helps user to rent out their stuff
 
-## Getting Started
+## Motive
 
-This project is a starting point for a Flutter application.
+We have a lot of stuff lying in our home that we don't frequently use or maybe we want some stuff that we will only be using for few days so buying it will be useless. Here's where the principle of renting stuff from user to user comes in. You can make money buy giving out your stuff to rent and save money by renting stuff instead of buying.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![14 12 2021_17 09 41_REC](https://user-images.githubusercontent.com/47386839/145992379-944664d4-7f8c-4188-8c3a-34533175c09f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![14 12 2021_17 06 51_REC](https://user-images.githubusercontent.com/47386839/145992396-4e8d6b3b-7d5c-4b64-a092-0e5669b0be08.png)
