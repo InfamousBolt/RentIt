@@ -6,6 +6,10 @@
 
 We have a lot of stuff lying in our home that we don't frequently use or maybe we want some stuff that we will only be using for few days so buying it will be useless. Here's where the principle of renting stuff from user to user comes in. You can make money buy giving out your stuff to rent and save money by renting stuff instead of buying.
 
+## Tech Stack
+
+Made with Flutter framework and integrated with several dependencies from PubDev. The project uses Firebase as backend and uses Google Auth for user sign in.
+
 ## Screenshots
 ![14 12 2021_17 09 41_REC](https://user-images.githubusercontent.com/47386839/145992379-944664d4-7f8c-4188-8c3a-34533175c09f.png)
 
